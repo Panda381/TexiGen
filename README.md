@@ -1,15 +1,11 @@
-TexGen v1.19 - Texture Generator
+TexGen v1.19 - Texture Generator<br>
 (c) 2015 Miroslav Nemecek
 
 
-project: www.breatharian.eu/TexiGen
-
-www: https://www.breatharian.eu/Panda38
-
-email: Panda38@seznam.cz
-
+project: www.breatharian.eu/TexiGen<br>
+www: https://www.breatharian.eu/Panda38<br>
+email: Panda38@seznam.cz<br>
 GitHub: https://github.com/Panda381/TexiGen
-
 
 
 Description of the TexiGen Application
@@ -27,9 +23,9 @@ Another consequence of the image back-generation method is that only those branc
 
 Directory Structure
 -------------------
-bin .... the TexiGen program with pre-configured sample generators
-help ... online help in Czech language
-src .... source codes for the TexiGen application for MSVC 2005 compiler
+bin .... the TexiGen program with pre-configured sample generators<br>
+help ... online help in Czech language<br>
+src .... source codes for the TexiGen application for MSVC 2005 compiler<br>
 www .... information and a sample gallery
 
 
@@ -41,9 +37,13 @@ All source codes of the TexiGen program are freely available and they can be use
 
 The TexiGen application is provided in form in which it is, with known and unknown errors. The author assumes no responsibility for any consequences arising from the use of the application, or for any consequences resulting from malfunctioning of the application.
 
+
 ![TexiGen Generator](TexiGen1.jpg)
+
 ![TexiGen Filters](TexiGen2.jpg)
+
 ![TexiGen Samples](TexiGen.jpg)
+
 
 Known Bugs and Deficiencies
 ---------------------------
@@ -60,7 +60,7 @@ Known Bugs and Deficiencies
 - display variant number (besides the Variation title)
 - relative paths RelToAbsPath, AbsToRelPath, to ensure the paths were not part of the generator (generator cannot be then migrated elsewhere)
 - Includes filters - in folder _Includes (it displays as filters too - they should have version in their title)
-- loop - repair crash (now it is treated using Level < 100) when connecting LoopEnd output to LoobBeg Source
+- loop - repair crash (now it is treated using Level &lt; 100) when connecting LoopEnd output to LoobBeg Source
 - blocks - Block filter could have filter graph inside it; in _Blocks folder there could be blocks (as common filters), inside block there could be included another block
 - cache filter (prerender image with choosen resolution - absolute resolution or relative to output resolultion)
 
