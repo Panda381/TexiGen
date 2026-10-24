@@ -8,7 +8,6 @@ portfolio: www.shutterstock.com/g/PandaWild
 GitHub: https://github.com/Panda381/TexiGen
 
 
-
 Description of the TexiGen Application
 --------------------------------------
 The TexiGen application is used to generate textures and illustrations using filters. Filters perform simple or more complex mathematical operations on an image. Each filter has one output and may have several inputs. The inputs are used both to feed image data into the filter and to control the filter's behavior.
