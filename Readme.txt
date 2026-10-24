@@ -2,9 +2,8 @@ TexGen v1.19 - Texture Generator
 (c) 2015 Miroslav Nemecek
 
 project: www.breatharian.eu/TexiGen
-www: panda38.sweb.cz
+www: https://www.breatharian.eu/Panda38
 email: Panda38@seznam.cz
-portfolio: www.shutterstock.com/g/PandaWild
 GitHub: https://github.com/Panda381/TexiGen
 
 
